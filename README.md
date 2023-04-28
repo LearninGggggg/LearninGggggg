@@ -1,6 +1,6 @@
 ### Hi！ 👋
  
-- 🔭 我是张佳侨，就读于福州大学，预计2022年毕业。
+- 🔭 我是jiaqiao zhang，就读于Shenzhen University，预计2022年毕业。
 
 - 🌱 我会C++,html,js，很享受编码的乐趣。
 
